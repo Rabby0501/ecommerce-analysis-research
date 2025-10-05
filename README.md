@@ -1,8 +1,10 @@
 # E-commerce Analysis Research Based on Linear Regression
 
-![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Linear%20Regression-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.7%2B-blue" alt="Python">
+  <img src="https://img.shields.io/badge/Scikit--learn-Linear%20Regression-orange" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
+</p>
 
 A comprehensive machine learning project that analyzes e-commerce customer behavior and builds predictive models to forecast yearly spending based on customer engagement metrics.
 
@@ -36,11 +38,26 @@ The dataset contains information about 500 e-commerce customers with the followi
 
 ### Prerequisites
 - Python 3.7+
-- pip (Python package manager)
+- Jupyter Notebook
 
-### Installation Steps
 
-1. **Clone the repository**:
+### Required Libraries
+
 ```bash
-git clone https://github.com/your-username/ecommerce-linear-regression.git
-cd ecommerce-linear-regression
+# Core Data Science Libraries
+pandas>=1.3.0
+numpy>=1.21.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Machine Learning
+scikit-learn>=1.0.0
+scipy>=1.7.0
+
+# Jupyter Environment
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Optional for advanced analysis
+statsmodels>=0.13.0
+plotly>=5.0.0
