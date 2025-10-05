@@ -45,13 +45,13 @@ The dataset contains information about 500 e-commerce customers with the followi
 
 ```bash
 # Core Data Science Libraries
-pandas numpy matplotlib seaborn
+      pandas numpy matplotlib seaborn
 
 # Machine Learning
-scikit-learn scipy
+      scikit-learn scipy
 
 # Jupyter Environment
-jupyter ipykernel
+      jupyter ipykernel
 
 # Optional for advanced analysis
-statsmodels plotly
+      statsmodels plotly
