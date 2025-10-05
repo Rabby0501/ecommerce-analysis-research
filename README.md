@@ -45,19 +45,13 @@ The dataset contains information about 500 e-commerce customers with the followi
 
 ```bash
 # Core Data Science Libraries
-pandas>=1.3.0
-numpy>=1.21.0
-matplotlib>=3.5.0
-seaborn>=0.11.0
+pandas numpy matplotlib seaborn
 
 # Machine Learning
-scikit-learn>=1.0.0
-scipy>=1.7.0
+scikit-learn scipy
 
 # Jupyter Environment
-jupyter>=1.0.0
-ipykernel>=6.0.0
+jupyter ipykernel
 
 # Optional for advanced analysis
-statsmodels>=0.13.0
-plotly>=5.0.0
+statsmodels plotly
